@@ -26,14 +26,6 @@
 - **REST APIs | SQL | Kafka**
 - **Docker | AWS | Git**
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumarcodes&show_icons=true&theme=default" />
-</p>
-
----
 
 ### 🔥 Streak Stats
 <p align="center">
