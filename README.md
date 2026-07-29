@@ -1,8 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Rohit;Java+Backend+Developer;6%2B+Years+Experience;Building+Scalable+Systems" />
-</h1>
-
-<h3 align="center">Java Backend Developer | Microservices | System Design</h3>
+<p align="center"><img src="./profile/rohit-sharma-intro.png" alt="Cover Image" /></p>
 
 ---
 
