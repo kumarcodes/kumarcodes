@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rohit Sharma 👋</h1>
+<h1 align="center">Hi, I'm Rohit Sharma </h1>
 <h3 align="center">Senior Java Backend Developer | Spring Boot • Microservices • Distributed Systems</h3>
 
 <p align="center">
