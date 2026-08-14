@@ -1,4 +1,15 @@
-<p align="center"><img src="./profile/rohit-sharma-intro.png" alt="Cover Image" /></p>
+<h1 align="center">Hi, I'm Rohit Sharma 👋</h1>
+<h3 align="center">Senior Java Backend Developer | Spring Boot • Microservices • Distributed Systems</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-4A90D9?style=flat" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
